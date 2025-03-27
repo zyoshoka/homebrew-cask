@@ -302,6 +302,7 @@ datovka
 davmail
 dbeaver-community
 dbgate
+dbngin
 dbschema
 dcommander
 dcp-o-matic
